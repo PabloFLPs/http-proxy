@@ -1,22 +1,9 @@
 # Proxy Server Project
-### Summary:
-A Proxy server is a server that acts as a middle layer when requesting data from a 3rd party API. In building a proxy server, you will create a server that requests data from an external API and serves the user that information.
 
 **Tutorial Reference:** [How an HTTP Proxy works and How to Build one?](https://www.youtube.com/watch?v=KOibBdrdyY0)
 
-**Tools Needed:**
-- Programming language of your choice (NodeJS, PHP, Python etc);
-- Postman for API testing.
-
-**What you will learn:**
-- CORS vs SOP;
-- Building a proxy server;
-- Working with Fetch API in NodeJS;
-- Fetching data from a third party API;
-- Working with databases.
-
-# Proxy Server
-A Proxy is a server application that exists as an intermediate between client resources requesting and the server that provides these resources. Instead of connecting directly to the destiny server/application, the Proxy make the intermediate way and controls the complexity of the connection.
+### Proxy Server
+A Proxy server is a server that acts as a middle layer when requesting data from a 3rd party API. In building a proxy server, you will create a server that requests data from an external API and serves the user that information. A Proxy is an application that exists as an intermediate between client resources requesting and the server that provides these resources. Instead of connecting directly to the destiny server/application, the Proxy make the intermediate way and controls the complexity of the connection.
 ```
 User <------> Proxy <-----> Internet Domain
 ```
